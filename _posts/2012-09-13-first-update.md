@@ -1,9 +1,9 @@
 ---
 layout: default
-published: false
+title: first update
 ---
 
 # How does it work?
 
-Enter Text in Markdown format.
+
 第一次更新文章
